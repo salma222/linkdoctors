@@ -1,0 +1,40 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body{
+  background-color:#eeeeee;
+}
+.centered {
+    display: table;
+    margin: auto;
+}
+#logo {
+height: 222px;
+margin-top: -29px;
+}
+.button-container {
+  position: relative;
+}
+
+.linkedin-container {
+  top: 100px;
+  right: 10px;
+  position: absolute;
+}
+
+.linkedin-button {
+font-size: 26px;
+font-weight: bold;
+padding: 18px 20px;
+}
+
+.BigNavBar{ height: 150px;
+
+}
+
+body {padding-top: 150px;
+
+}

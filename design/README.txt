@@ -1,0 +1,1 @@
+This is where design files are. Please move them to Jinja templates when you can, and then we can 

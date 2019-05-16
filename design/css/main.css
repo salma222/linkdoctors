@@ -1,0 +1,22 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.centered {
+    display: table;
+    margin: auto;
+}
+
+.linkedin-button {
+    top : 100px;
+}
+
+.BigNavBar{ height: 150px;
+
+}
+
+body {padding-top: 150px;
+
+}
